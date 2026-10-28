@@ -1,0 +1,17 @@
+{
+    "url": "https://example.com",
+    "status_code": 200,
+    "final_url": "https://example.com",
+    "content_type": "text/html; charset=utf-8",
+    "server_header": "cloudflare",
+    "location_header": null,
+    "response_bytes_sampled": 577,
+    "security_headers": {
+        "Strict-Transport-Security": null,
+        "Content-Security-Policy": null,
+        "X-Content-Type-Options": null,
+        "X-Frame-Options": null,
+        "Referrer-Policy": null,
+        "Permissions-Policy": null
+    }
+}
