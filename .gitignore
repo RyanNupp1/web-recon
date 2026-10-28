@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+output/*
+!.gitkeep
+*.before-pinned
+*.backup
+*.step1-backup
